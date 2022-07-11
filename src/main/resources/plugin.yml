@@ -1,0 +1,11 @@
+name: Elevator
+version: '${project.version}'
+main: de.adrian.elevator.Elevator
+api-version: 1.18
+authors: [ Adrian ]
+permissions:
+  elevatormain:
+    default: op
+commands:
+  elevator:
+    description: Main Command
